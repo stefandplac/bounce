@@ -1,5 +1,5 @@
 Application is running live 
-frontend :   [http:](http://frontend.extenso.ie/)
+frontend :   http://frontend.extenso.ie
 backend endpoints:
 http://backend.extenso.ie:5035/api/country/countriesList
 http://backend.extenso.ie:5035/api/country/name/:countryName
